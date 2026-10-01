@@ -1,5 +1,7 @@
 # Longest Word Chain
 
+**🌐 [English](README.md) | [简体中文](README.zh-CN.md)**
+
 Find all **longest word chains** where adjacent words differ by exactly **one letter** (Hamming distance = 1).
 
 A pure, dependency-free JavaScript implementation using bitmask DP with connected-component splitting.
